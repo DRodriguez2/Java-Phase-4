@@ -1,0 +1,27 @@
+body, html {
+    /* The image used */
+    background-image: url("/static/Restaurant-Homepage-background.jpg");
+  
+    /* Full height */
+    height: 100%;
+    width: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.linkSize {
+    font-size: 150%;
+}
+
+.glass {
+    background-color: rgba(40, 40, 40, .15);  
+    backdrop-filter: blur(5px);
+}
+
+.menu-background {
+    background-color: rgba(200, 100, 0, .5);  
+    backdrop-filter: blur(5px);
+}

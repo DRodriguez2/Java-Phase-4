@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Sandbox"
+		},
+		{
+			"path": "..\\react-tutorial2"
+		},
+		{
+			"path": "..\\team-budget-planner"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Restaurant-Frontend"
+	}
+}
